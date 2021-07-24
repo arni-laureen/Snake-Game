@@ -18,7 +18,7 @@ function game() {
   if (is_gameover()) {
     // GAME OVER text
     ctx.font = "60px Share Tech Mono";
-    ctx.fillStyle = "#ff2656";
+    ctx.fillStyle = "#FFF338";
     ctx.textAlign = "center";
     ctx.fillText("GAME OVER",200,200);
     // RESTART text
