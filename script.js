@@ -6,7 +6,7 @@ window.onload = function() {
 }
 
 px=py=10;   // initial snake position
-gs=tc=20;   // pixel size
+gs=tc=20;   // grid size and tile count
 ax=ay=15;   // initial apple location
 xv=yv=0;    // initial velocity
 trail=[];   // initial snake body
